@@ -18,7 +18,7 @@ ISCB1006 | [Introduction to Python](https://github.com/datasticslab/ISCB1006) | 
 
 
 ## TAKE A LOOK! 
-**Main Repository**: https://github.com/datasticslab/ISCB
+**Main Repository**: https://github.com/datasticslab/ISCB <br>
 **ISCB**: Introduction to Scientific Computing for Biologists <br>
 **1006**: Course Number
 > **Sologan:** Computing for Life <br>
