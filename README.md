@@ -4,7 +4,7 @@
 
 Code | Course Name | Duration | Effort
 :-- | :--: | :--: | :--:
-ISCB1006 | [Introduction to Python](#) | 2 weeks | 5-6 Hours/Week
+ISCB1006 | [Introduction to Python](https://github.com/datasticslab/ISCB1006) | 2 weeks | 5-6 Hours/Week
 
 
 ## Python Resources 
