@@ -1,4 +1,4 @@
-# Introduction to Python(ISCB1004)
+# Introduction to Python(ISCB20.04)
 Day | Topic Name | Duration | Resources
 :-- | :--: | :--: | :--:
 Day-1 | Jupyter Notebook, Markdown, LaTeX | 1 Hour | [slide](#), [external](#) 
